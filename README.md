@@ -1,9 +1,8 @@
 # GST-Compliant-Invoice-Quotation-Generator
-# GST-Compliant Invoice/Quotation Generator 🧾
 
 A Google Colab-ready tool to generate GST-compliant **Invoices**, **Quotations**, or **Bills** in PDF format. Add logo, business details, items, GSTIN, and more — all via user input.
 
-## 🚀 Features
+##  Features
 - Logo upload
 - Select document type: INVOICE / QUOTATION / BILL
 - Auto-generate invoice number and dates
